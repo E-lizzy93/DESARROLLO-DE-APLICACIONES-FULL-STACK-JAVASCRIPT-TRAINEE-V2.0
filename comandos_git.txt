@@ -1,0 +1,5 @@
+git --version . Muestra la version instalada en el sistema. Ejemplo git --version
+git init . Inicializa un repositorio Git en la carpeta actual. Ejemplo git init
+git status . Muestra el estado del respositorio y los archivos modificados . Ejemplo git status
+git add .Agrega todos los archivos al area de preparación. Ejemplo git add.
+git commit - m "mensaje" .Guarda los cambios realizados en el repositorio . Ejemplo git commit-m "Primer commit" 
